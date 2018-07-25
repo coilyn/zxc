@@ -1,0 +1,119 @@
+[
+  {
+    "id": 145,
+    "name": "My House",
+    "imageUrl": "https://github.com/coilyn/senth2/blob/master/Flat7.jpg?raw=true",
+    "price": 0,
+    "priceCurrency": "km",
+    "lat": 16.579032,
+    "lng": 120.326203
+  },
+  {
+    "id": 145,
+    "name": "Boracay",
+    "imageUrl": "https://github.com/coilyn/pictures/blob/master/flat1.jpg?raw=true",
+    "price": 711.9,
+    "priceCurrency": "km",
+    "lat": 11.9674,
+    "lng": 121.9248
+  },
+  {
+    "id": 148,
+    "name": "Hundred Island",
+    "imageUrl": "https://github.com/coilyn/pictures/blob/master/flat2.jpg?raw=true",
+    "price": 129.9,
+    "priceCurrency": "km",
+    "lat": 16.2040,
+    "lng": 120.0409
+  },
+  {
+    "id": 201,
+    "name": "Puerto Princesa!",
+    "imageUrl": "https://github.com/coilyn/pictures/blob/master/flat3.jpg?raw=true",
+    "price": 1,037.2 km,
+    "priceCurrency": "km",
+    "lat": 9.9672,
+    "lng": 118.7855
+  },
+  {
+    "id": 205,
+    "name": "Banaue Rice Terraces",
+    "imageUrl": "https://github.com/coilyn/pictures/blob/master/BanaueRiceTerraces.jpg?raw=true",
+    "price": 209.5,
+    "priceCurrency": "km",
+    "lat": 16.9240,
+    "lng": 121.0556
+  },
+  {
+    "id": 210,
+    "name": "Malapascua",
+    "imageUrl": "https://github.com/coilyn/pictures/blob/master/MalapascuaIsland.jpg?raw=true",
+    "price": 715 km,
+    "priceCurrency": "km",
+    "lat": 11.3358,
+    "lng": 124.1156
+  },
+  {
+    "id": 211,
+    "name": "Chocolate Hills",
+    "imageUrl": "https://github.com/coilyn/pictures/blob/master/chocolatehills.jpg?raw=true",
+    "price": 1,195.2,
+    "priceCurrency": "km",
+    "lat": 9.8297,
+    "lng": 124.1397
+  },
+  {
+    "id": 212,
+    "name": "Mayon volcano",
+    "imageUrl": "https://github.com/coilyn/pictures/blob/master/mayonvolcano.jpg?raw=true",
+    "price": 761.5,
+    "priceCurrency": "km",
+    "lat": 13.2548,
+    "lng": 123.6861
+  },
+  {
+    "id": 213,
+    "name": "Puerto Galera",
+    "imageUrl": "https://github.com/coilyn/pictures/blob/master/puertogalera.jpg?raw=true",
+    "price": 409.0,
+    "priceCurrency": "km",
+    "lat": 13.5019,
+    "lng": 120.9541
+  },
+  {
+    "id": 215,
+    "name": "baguio",
+    "imageUrl": "https://github.com/coilyn/pictures/blob/master/baguio.jpg?raw=true",
+    "price": 58.2,
+    "priceCurrency": "km",
+    "lat": 16.4023,
+    "lng": 120.5960
+  },
+  {
+    "id": 218,
+    "name": "HumaIsland",
+    "imageUrl": "https://github.com/coilyn/pictures/blob/master/humaIsland.jpg?raw=true",
+    "price": 752.1,
+    "priceCurrency": "km",
+    "lat": 12.0537,
+    "lng": 119.9023
+  },
+  {
+    "id": 228,
+    "name": "Lake Sebu",
+    "imageUrl": "https://github.com/coilyn/pictures/blob/master/lakesebu.jpg?raw=true",
+    "price": 1,241,
+    "priceCurrency": "km",
+    "lat": 6.2447,
+    "lng": 124.5528
+  },
+  {
+    "id": 229,
+    "name": "Vigan",
+    "imageUrl": "https://github.com/coilyn/pictures/blob/master/vigan.jpg?raw=true",
+    "price": 136.6,
+    "priceCurrency": "km",
+    "lat": 17.5705,
+    "lng": 120.3873
+  }
+]
